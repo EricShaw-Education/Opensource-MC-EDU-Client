@@ -36,6 +36,34 @@ Please note that this client **cannot connect to official Minecraft servers**.
 
 Multiplayer is only available through servers specifically created and configured for Minecraft EDU Client.
 
+
+## Hosting Your Own Server
+
+Minecraft EDU Client is designed to work with dedicated community servers.
+
+If you would like to host your own server, simply use the included **Fabric-Custom-Server-1.21.1** package.
+
+### Quick Setup
+
+1. Navigate to the `Fabric-Custom-Server-1.21.1` folder.
+2. Start the server using the provided startup script or server launcher.
+3. Wait for the server files and world data to generate.
+4. Configure the server settings if desired.
+5. Share your server IP address with other Minecraft EDU Client users.
+
+Once the server is running, players using Minecraft EDU Client can connect and play together.
+
+### Benefits of Self-Hosting
+
+* Full control over your server.
+* Customize worlds and gameplay settings.
+* Host private servers for friends, schools, or communities.
+* No additional software required beyond the included server package.
+
+Creating and hosting your own server is simple and allows anyone to build their own Minecraft EDU Client community.
+
+
+
 ## License & Usage
 
 * Free for personal, educational, and non-commercial use.
